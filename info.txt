@@ -1,4 +1,0 @@
-
-HAPPY CODING :)
-This is a simple login page 
-This page consist of Username and Aadhar Number as input and it validate aadhar Number
